@@ -1,7 +1,0 @@
-[build]
-  base = "project"
-  publish = "dist"
-  command = "npm run build"
-
-[build.environment]
-  NODE_VERSION = "22.13.1"
